@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pageflow:Pageflow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pageflow="http://www.sybase.com/suade/pageflow" id="pf14328429829730" configfile="/VerizonSentimentAnalyser/WebContent/WEB-INF/faces-config.xml">
+  <nodes xsi:type="pageflow:PFPage" name="index.xhtml" x="338" y="178" id="pf14328430081091" referenceLink="//@navigationRule.1/@navigationCase.0/@toViewId|" path="/index.xhtml"/>
+  <nodes xsi:type="pageflow:PFPage" name="result.xhtml" x="122" y="178" id="pf14328430081094" referenceLink="//@navigationRule.1/@fromViewId|" path="/result.xhtml"/>
+</pageflow:Pageflow>
